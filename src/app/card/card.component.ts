@@ -12,9 +12,6 @@ export class CardComponent implements OnInit {
 	@Input() username = '';
 	@Input() content = '';
 
-
-
-
 	constructor() {}
 	
 	ngOnInit() {}
